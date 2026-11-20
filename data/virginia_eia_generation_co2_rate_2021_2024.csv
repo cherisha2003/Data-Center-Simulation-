@@ -1,0 +1,5 @@
+year,co2_lbs_per_mwh,co2_kg_per_kwh,scope,source_url
+2021,649,0.294381448,IN-STATE ELECTRICITY GENERATION; NOT CONSUMPTION-MIX,https://www.eia.gov/electricity/state/archive/2021/virginia/
+2022,642,0.291206302,IN-STATE ELECTRICITY GENERATION; NOT CONSUMPTION-MIX,https://www.eia.gov/electricity/state/archive/2022/virginia/
+2023,594,0.269433868,IN-STATE ELECTRICITY GENERATION; NOT CONSUMPTION-MIX,https://www.eia.gov/electricity/state/archive/2023/virginia/
+2024,631,0.286216785,IN-STATE ELECTRICITY GENERATION; NOT CONSUMPTION-MIX,https://www.eia.gov/electricity/state/virginia/

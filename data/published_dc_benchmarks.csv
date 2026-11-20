@@ -1,0 +1,4 @@
+year,measure,value,unit,geography,status,source_url,notes
+2023,dc_electricity,32000,GWh,Virginia,RESEARCH ESTIMATE,https://eprinc.org/virginia-electricity-demand-growth-the-case-of-data-centers/,EPRINC estimated 32 TWh Virginia DC power demand in 2023
+2023,dc_water_total,2100,million_US_gallons,Virginia,JLARC ESTIMATE,https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp,Includes reclaimed water; near complete but not exhaustive facilities
+2019,dc_water_total,1129.032258,million_US_gallons,Virginia,DERIVED NOT INDEPENDENT OBSERVATION,https://securewater.illinois.edu/data-center-expansion-in-virginia-closing-critical-gaps-for-informed-water-planning-and-permitting/,Backcast from 2023 2100 / 1.86 using reported 86 percent increase; DO NOT use to independently validate

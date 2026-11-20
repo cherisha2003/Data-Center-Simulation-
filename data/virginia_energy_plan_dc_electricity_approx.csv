@@ -1,0 +1,8 @@
+year,dc_electricity_gwh_approx,uncertainty_gwh,role,data_kind,source_url,notes
+2015,5000,2000,EXPLORATORY HISTORICAL GROWTH SETTING,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,Figure 8 approximate visual reading; used to choose 25 percent historical growth; NOT held out
+2019,12000,2000,HISTORICAL CROSS-CHECK,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,Figure 8 visual estimate; approximate values not machine readable measurements
+2021,20000,2000,HISTORICAL CROSS-CHECK,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,Figure 8 visual estimate
+2022,25000,2000,HISTORICAL CROSS-CHECK,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,Figure 8 visual estimate
+2023,31000,2000,EXTERNAL CROSS-SOURCE CHECK / SAME YEAR,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,2023 fitted to different EPRINC source at 32000 GWh; not out-of-year validation
+2024,36000,2000,HISTORICAL CROSS-CHECK,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,Figure 8 visual estimate
+2025,45000,2000,RETROSPECTIVE SCENARIO CHECK,APPROXIMATE GRAPH READING,https://www.energy.virginia.gov/public/documents/Virginia%20Energy%20Plan/2026_Virginia_Energy_Plan.pdf,Figure 8 visual estimate; model treats 2025 as scenario projection not measured forcing
